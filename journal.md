@@ -9,4 +9,6 @@ an ai powered assaiant that can help you build different stuff like projects and
 
 # September 22, 2025
 I think working in a virtul store for money is goiood because some people dont like being with other people.Gameing is a safe space to some people so this could help people that are socially ackward and they can have a job in the game and have fun while gettting paid.My evidence supports my claim because im proving why it can be good for certain people.
-
+# october 14,2025
+The topic is a math quiz and it is for 8th grade students and i made canva ai build a quiz and slideshow as the review for them. the review will look fun but the quiz will look proffisnal.the parts that worked well was the review and quiz
+# october 20,2025 
