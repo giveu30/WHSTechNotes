@@ -14,6 +14,6 @@ The topic is a math quiz and it is for 8th grade students and i made canva ai bu
 # october 20, 2025 
 | Name     | Class | Seat |
 | :------- | :---- | :--- |
-| Franklin |       |      |
-| Hardeep  |       |      |
-| Marla    |       |      |
+| Franklin |   2nd    | 91a     |
+| Hardeep  | 3rd      |  61f    |
+| Marla    | 1st      |   35b   |
