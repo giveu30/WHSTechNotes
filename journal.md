@@ -17,3 +17,9 @@ The topic is a math quiz and it is for 8th grade students and i made canva ai bu
 | Franklin |   2nd    | 91a     |
 | Hardeep  | 3rd      |  61f    |
 | Marla    | 1st      |   35b   |
+# october 27 ,2025 
+| Name     | Main Dish | Dessert |
+| :------- | :-------- | :------ |
+| Fiona    |  gado gado  cream brulee       |         |
+| Tobias   |   Shrimp Ceviche     French Apple Cake      |         |
+| Leanne   | Beef Wellington     Raspberry Tiramisu       |         |
