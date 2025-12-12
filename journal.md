@@ -24,3 +24,10 @@ The topic is a math quiz and it is for 8th grade students and i made canva ai bu
 | Tobias   |   Shrimp Ceviche     French Apple Cake      |         |
 | Leanne   | Beef Wellington     Raspberry Tiramisu       |         |
 # november 10 ,2025
+
+# december 1  ,2025
+
+A drone programmer uses software to enable autonomous flight, navigation, and task execution, with roles like Agricultural Drone Pilot requiring FAA Part 107 certification and potentially earning over \(\$80,000\) annually in the U.S. (Source: Payscale, 2025). They write code for GPS paths, obstacle avoidance, and mission-specific data collection for fields like surveying or delivery. Drone Programmer: Agricultural Drone Pilot Example Job & Role: Pilots operate drones for crop monitoring, spraying, and mapping. Programmers develop software for autonomous flight patterns, precise application of pesticides, and gathering real-time multispectral data to assess plant health.Tasks: Code flight paths, integrate sensor data (LiDAR, thermal), and program mission sequences.Pay (U.S.): Agricultural Drone Pilots can earn over \(\$80,000\) annually (Payscale, 2025).Requirements: FAA Part 107 Remote Pilot Certificate, programming experience (Python, C++), and understanding of agricultural science. 
+
+# december 8 ,2025
+the cars sensdor and ai may fail to recognize school bus signals due to visual challges, requriung muliti sensor verticion, geo facved zones and emergycy stop logic to ensurse safty
