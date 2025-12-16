@@ -31,3 +31,6 @@ A drone programmer uses software to enable autonomous flight, navigation, and ta
 
 # december 8 ,2025
 the cars sensdor and ai may fail to recognize school bus signals due to visual challges, requriung muliti sensor verticion, geo facved zones and emergycy stop logic to ensurse safty
+
+# december 15, 2025
+My plans for winter break are to go to my granparents house and we have a game for basketball during chrismbreak.
