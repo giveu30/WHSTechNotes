@@ -35,5 +35,8 @@ the cars sensdor and ai may fail to recognize school bus signals due to visual c
 # december 15, 2025
 My plans for winter break are to go to my granparents house and we have a game for basketball during chrismbreak.
 
+# january 6,2026
+i was using a sports bvetting app i was playing fantsy football on my phone and whatching tv
+
 # january 12, 2026
 Autcraft was created as a safe, moderated online space for children with autism and their families to play Minecraft without fear of the pervasive bullying, harassment, and exclusion they faced on unmoderated public servers. Its founder, Stuart Duncan, an autistic father of an autistic son, sought to solve the problem of a hostile online environment that was negatively impacting the mental and emotional well-being of vulnerable players. 
