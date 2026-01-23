@@ -35,7 +35,7 @@ the cars sensdor and ai may fail to recognize school bus signals due to visual c
 # december 15, 2025
 My plans for winter break are to go to my granparents house and we have a game for basketball during chrismbreak.
 
-# january 6,2026
+# january 6, 2026
 i was using a sports bvetting app i was playing fantsy football on my phone and whatching tv
 
 # january 12, 2026
