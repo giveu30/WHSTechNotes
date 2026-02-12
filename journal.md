@@ -40,3 +40,7 @@ i was using a sports bvetting app i was playing fantsy football on my phone and 
 
 # january 12, 2026
 Autcraft was created as a safe, moderated online space for children with autism and their families to play Minecraft without fear of the pervasive bullying, harassment, and exclusion they faced on unmoderated public servers. Its founder, Stuart Duncan, an autistic father of an autistic son, sought to solve the problem of a hostile online environment that was negatively impacting the mental and emotional well-being of vulnerable players. 
+
+
+# February 10, 2026
+Yes i do like football and i did watch the superbowl i hated the superbowl and the halftime show
