@@ -42,5 +42,18 @@ i was using a sports bvetting app i was playing fantsy football on my phone and 
 Autcraft was created as a safe, moderated online space for children with autism and their families to play Minecraft without fear of the pervasive bullying, harassment, and exclusion they faced on unmoderated public servers. Its founder, Stuart Duncan, an autistic father of an autistic son, sought to solve the problem of a hostile online environment that was negatively impacting the mental and emotional well-being of vulnerable players. 
 
 
-# February 10, 2026
+# February 10,2026
 Yes i do like football and i did watch the superbowl i hated the superbowl and the halftime show
+
+
+# march 24, 2026
+Advanced Metrics: Utilizing data like offensive and defensive efficiency, NET ratings, and possession-based analytics helps isolate how a team truly performs, stripping away late-game distortions.
+Matchup Dynamics: Data can reveal specific edges, such as a team's three-point shooting percentage versus an opponent's perimeter defense.
+Trend Analysis: Examining a team’s performance over their last 10 games or historical performance as a specific seed can provide a stronger fundamental basis for a pick than general opinion
+
+March 30, 2026
+Upsets happen because standard statistical models often rely on "static" season averages, which fail to capture the high-variance, emotional intensity of single-elimination tournament play. 
+
+Evidence: In the 2026 tournament, No. 9 Iowa stunned the defending champion and No. 1 seed Florida with a 73-72 victory. Despite Florida being a 10.5-point favorite and coming off a nearly historic margin of victory, Iowa leveraged a hot shooting night from Alvaro Folgueiras—who hit a game-winning three with seconds left—to overcome the reigning champs. 
+
+Reasoning: Data-driven predictions struggle because they cannot easily quantify "black swan" events like a bench player suddenly having a career-best game or the psychological pressure of a favorite trailing by double digits. Computers are excellent at analyzing historical trends, but they often struggle to account for
