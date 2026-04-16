@@ -51,7 +51,7 @@ Advanced Metrics: Utilizing data like offensive and defensive efficiency, NET ra
 Matchup Dynamics: Data can reveal specific edges, such as a team's three-point shooting percentage versus an opponent's perimeter defense.
 Trend Analysis: Examining a team’s performance over their last 10 games or historical performance as a specific seed can provide a stronger fundamental basis for a pick than general opinion
 
-March 30, 2026
+# March 30, 2026
 Upsets happen because standard statistical models often rely on "static" season averages, which fail to capture the high-variance, emotional intensity of single-elimination tournament play. 
 
 Evidence: In the 2026 tournament, No. 9 Iowa stunned the defending champion and No. 1 seed Florida with a 73-72 victory. Despite Florida being a 10.5-point favorite and coming off a nearly historic margin of victory, Iowa leveraged a hot shooting night from Alvaro Folgueiras—who hit a game-winning three with seconds left—to overcome the reigning champs. 
