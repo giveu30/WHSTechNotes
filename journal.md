@@ -46,7 +46,7 @@ Autcraft was created as a safe, moderated online space for children with autism 
 Yes i do like football and i did watch the superbowl i hated the superbowl and the halftime show
 
 
-# march 24, 2026
+# march 23, 2026
 Advanced Metrics: Utilizing data like offensive and defensive efficiency, NET ratings, and possession-based analytics helps isolate how a team truly performs, stripping away late-game distortions.
 Matchup Dynamics: Data can reveal specific edges, such as a team's three-point shooting percentage versus an opponent's perimeter defense.
 Trend Analysis: Examining a team’s performance over their last 10 games or historical performance as a specific seed can provide a stronger fundamental basis for a pick than general opinion
