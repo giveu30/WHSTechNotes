@@ -57,3 +57,9 @@ Upsets happen because standard statistical models often rely on "static" season 
 Evidence: In the 2026 tournament, No. 9 Iowa stunned the defending champion and No. 1 seed Florida with a 73-72 victory. Despite Florida being a 10.5-point favorite and coming off a nearly historic margin of victory, Iowa leveraged a hot shooting night from Alvaro Folgueiras—who hit a game-winning three with seconds left—to overcome the reigning champs. 
 
 Reasoning: Data-driven predictions struggle because they cannot easily quantify "black swan" events like a bench player suddenly having a career-best game or the psychological pressure of a favorite trailing by double digits. Computers are excellent at analyzing historical trends, but they often struggle to account for
+
+
+ # march 20, 2026
+ This is a free week
+
+ 
