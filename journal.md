@@ -1,16 +1,20 @@
 # August 27, 2025
 Today, I created my first GitHub account and repository. I'm excited to start using GitHub for my projects!
 
+
 # September 2, 2025
 my thought on the new phone law is that we should be able to have at least be able to have it a lunch.I think this beacause they said only at intuctinal time and lunch is that
 
 # September 16, 2025
 an ai powered assaiant that can help you build different stuff like projects and other thingsn like games,phones,tablets.Mine meets the requriements because it solves real life problems like maybe cheeper phones or tablets that are more afgordable and still great phones.My idea is usefull because some people cant afford these expensive phones.
+I used ai
 
 # September 22, 2025
 I think working in a virtul store for money is goiood because some people dont like being with other people.Gameing is a safe space to some people so this could help people that are socially ackward and they can have a job in the game and have fun while gettting paid.My evidence supports my claim because im proving why it can be good for certain people.
+i used ai
 # october 14, 2025
 The topic is a math quiz and it is for 8th grade students and i made canva ai build a quiz and slideshow as the review for them. the review will look fun but the quiz will look proffisnal.the parts that worked well was the review and quiz
+
 # october 20, 2025 
 | Name     | Class | Seat |
 | :------- | :---- | :--- |
@@ -28,7 +32,7 @@ The topic is a math quiz and it is for 8th grade students and i made canva ai bu
 # december 1  ,2025
 
 A drone programmer uses software to enable autonomous flight, navigation, and task execution, with roles like Agricultural Drone Pilot requiring FAA Part 107 certification and potentially earning over \(\$80,000\) annually in the U.S. (Source: Payscale, 2025). They write code for GPS paths, obstacle avoidance, and mission-specific data collection for fields like surveying or delivery. Drone Programmer: Agricultural Drone Pilot Example Job & Role: Pilots operate drones for crop monitoring, spraying, and mapping. Programmers develop software for autonomous flight patterns, precise application of pesticides, and gathering real-time multispectral data to assess plant health.Tasks: Code flight paths, integrate sensor data (LiDAR, thermal), and program mission sequences.Pay (U.S.): Agricultural Drone Pilots can earn over \(\$80,000\) annually (Payscale, 2025).Requirements: FAA Part 107 Remote Pilot Certificate, programming experience (Python, C++), and understanding of agricultural science. 
-
+I used ai
 # december 8 ,2025
 the cars sensdor and ai may fail to recognize school bus signals due to visual challges, requriung muliti sensor verticion, geo facved zones and emergycy stop logic to ensurse safty
 
@@ -40,6 +44,8 @@ i was using a sports bvetting app i was playing fantsy football on my phone and 
 
 # january 12, 2026
 Autcraft was created as a safe, moderated online space for children with autism and their families to play Minecraft without fear of the pervasive bullying, harassment, and exclusion they faced on unmoderated public servers. Its founder, Stuart Duncan, an autistic father of an autistic son, sought to solve the problem of a hostile online environment that was negatively impacting the mental and emotional well-being of vulnerable players. 
+I used ai
+
 
 
 # February 10,2026
@@ -50,6 +56,7 @@ Yes i do like football and i did watch the superbowl i hated the superbowl and t
 Advanced Metrics: Utilizing data like offensive and defensive efficiency, NET ratings, and possession-based analytics helps isolate how a team truly performs, stripping away late-game distortions.
 Matchup Dynamics: Data can reveal specific edges, such as a team's three-point shooting percentage versus an opponent's perimeter defense.
 Trend Analysis: Examining a team’s performance over their last 10 games or historical performance as a specific seed can provide a stronger fundamental basis for a pick than general opinion
+i used ai
 
 # March 30, 2026
 Upsets happen because standard statistical models often rely on "static" season averages, which fail to capture the high-variance, emotional intensity of single-elimination tournament play. 
@@ -57,6 +64,7 @@ Upsets happen because standard statistical models often rely on "static" season 
 Evidence: In the 2026 tournament, No. 9 Iowa stunned the defending champion and No. 1 seed Florida with a 73-72 victory. Despite Florida being a 10.5-point favorite and coming off a nearly historic margin of victory, Iowa leveraged a hot shooting night from Alvaro Folgueiras—who hit a game-winning three with seconds left—to overcome the reigning champs. 
 
 Reasoning: Data-driven predictions struggle because they cannot easily quantify "black swan" events like a bench player suddenly having a career-best game or the psychological pressure of a favorite trailing by double digits. Computers are excellent at analyzing historical trends, but they often struggle to account for
+I used ai
 
 
  # march 20, 2026
@@ -66,3 +74,4 @@ Reasoning: Data-driven predictions struggle because they cannot easily quantify 
 # April 9, 2026
 The first step i would try to bribe them the evendice i would make is that if they take evrbody it would just be them.
  Technology has fundamentally transformed the player evaluation process for the 2026 NFL Draft by shifting from subjective scouting to objective, data-driven science. For instance, top prospects like Ohio State safety Caleb Downs have had their physical profiles recreated by AI platforms that analyze on-field movement to fill data gaps left by missing combine metrics. Furthermore, teams are now utilizing sophisticated algorithms
+ I used ai
