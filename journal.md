@@ -78,3 +78,6 @@ The first step i would try to bribe them the evendice i would make is that if th
 
 # Aprill 27, 2026
 Somethng i used technogly for was useing socail media watching games.
+
+# may 6, 2026
+I might be helping but i dont really know I say might because i use ai myself so i think im helping change it.
