@@ -81,3 +81,6 @@ Somethng i used technogly for was useing socail media watching games.
 
 # may 6, 2026
 I might be helping but i dont really know I say might because i use ai myself so i think im helping change it.
+
+# may 11, 2026
+My descion making has got really better over this school year
