@@ -76,6 +76,9 @@ The first step i would try to bribe them the evendice i would make is that if th
  Technology has fundamentally transformed the player evaluation process for the 2026 NFL Draft by shifting from subjective scouting to objective, data-driven science. For instance, top prospects like Ohio State safety Caleb Downs have had their physical profiles recreated by AI platforms that analyze on-field movement to fill data gaps left by missing combine metrics. Furthermore, teams are now utilizing sophisticated algorithms
  I used ai
 
+# aprill 20, 2026
+ ai changes the way people exipercence and trust content because you never know if you are watching something fake or not
+
 # Aprill 27, 2026
 Somethng i used technogly for was useing socail media watching games.
 
